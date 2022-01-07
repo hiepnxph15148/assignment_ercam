@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.news-item{
+    @apply border p-4 m-auto rounded-2xl
+}
+.anh{
+    @apply h-[400px]
+}
