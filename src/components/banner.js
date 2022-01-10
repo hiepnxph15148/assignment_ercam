@@ -1,8 +1,10 @@
 const Banner = {
     print() {
         return`
-            <img src="https://picsum.photos/2000/400" alt="" />
+        <a href="#"><img class="anh" src="./image/hiep1 (1).jpg" alt="" id="anh"></a>
         `;
     },
+    
 };
+
 export default Banner;
